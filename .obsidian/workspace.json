@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Python"
             }
-          },
-          {
-            "id": "3e132e2638a84e51",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,15 +162,15 @@
       "graph:Граф": false
     }
   },
-  "active": "3e132e2638a84e51",
+  "active": "69ea110b3c7ca99f",
   "lastOpenFiles": [
-    "Terminal/Удобная и красивая консоль Linux.md",
+    "README.md",
     "DevOps/Terraform.md",
+    "Python.md",
+    "Terminal/Удобная и красивая консоль Linux.md",
     "DevOps/Git.md",
     "DevOps/Docker и Docker-Compose.md",
     "DevOps/Ansible.md",
-    "README.md",
-    "Python.md",
     "Официальный.md",
     "Terminal",
     "Без названия.canvas",
