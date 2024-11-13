@@ -34,6 +34,3 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 # Выбор плагинов
 Подробная информация есть здесь
 https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
-
-# Мои рекомендации
-Тема
